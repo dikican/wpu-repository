@@ -7,5 +7,6 @@ Rencana konten wpu
 - javascript
   *ES6
   * Framework Javascript
+ -struktur data dasar
   
   
