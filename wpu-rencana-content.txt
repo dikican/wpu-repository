@@ -4,3 +4,7 @@ Rencana konten wpu
 - saya ingin membuat css
 - vlog
 - javascript
+  *ES6
+  * Framework Javascript
+  
+  
