@@ -1,0 +1,11 @@
+Rencana konten wpu 
+
+- saya ingin membuat html 
+- saya ingin membuat css
+- penambahan boostrap
+- vlog
+- javascript
+  *ES6
+  * Framework Javascript
+  
+  
